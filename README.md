@@ -1,7 +1,8 @@
 ## SCREENSHOT TAMPILAN SIGN IN WITH GOOGLE MENGGUNAKAN FIREBASE VUE
 
 # Login Page
-<img src="https://github.com/user-attachments/assets/78904bea-452f-40ec-891c-7861d62a97dc" width="180" height="360"/><br>
+<img src="https://github.com/user-attachments/assets/78904bea-452f-40ec-891c-7861d62a97dc" width="180" height="360"/>
+<img src="https://github.com/user-attachments/assets/e478d44c-3591-4cb4-be9e-57f6482d26ae" height="360"/><br>
 <p>Halaman login, button sign in with google untuk login menggunakan akun google</p>
 
 # Home Page
