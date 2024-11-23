@@ -2,7 +2,7 @@
     <ion-tabs>
         <ion-router-outlet></ion-router-outlet>
 
-        <ion-tab-bar slot="bottom">
+        <ion-tab-bar slot="bottom"> <!-- eslint-disable-line vue/no-deprecated-slot-attribute -->
             <ion-tab-button tab="home" href="/home" layout="icon-top">
                 <ion-icon :icon="home"></ion-icon>
                 <ion-label>Home</ion-label>

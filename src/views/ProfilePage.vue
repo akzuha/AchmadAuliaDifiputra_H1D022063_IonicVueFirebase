@@ -5,8 +5,8 @@
                 <ion-title>Profile</ion-title>
 
                 <!-- Logout Button -->
-                <ion-button slot="end" fill="clear" @click="logout" style="--color: gray;">
-                    <ion-icon slot="end" :icon="exit"></ion-icon>
+                <ion-button slot="end" fill="clear" @click="logout" style="--color: gray;"> <!-- eslint-disable-line vue/no-deprecated-slot-attribute -->
+                    <ion-icon slot="end" :icon="exit"></ion-icon> <!-- eslint-disable-line vue/no-deprecated-slot-attribute -->
                     <ion-label>Logout</ion-label>
                 </ion-button>
             </ion-toolbar>
@@ -42,7 +42,6 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonInput, IonItem, IonList, IonLabel, IonIcon, IonButton, IonAvatar } from '@ionic/vue';
 import { exit } from 'ionicons/icons';
 import { computed, ref } from 'vue';
-import TabsMenu from '@/components/TabsMenu.vue';
 import { useAuthStore } from '@/stores/auth';
 
 const authStore = useAuthStore();
@@ -52,10 +51,10 @@ const logout = () => {
     authStore.logout();
 };
 
-const userPhoto = ref(user.value?.photoURL || 'https://lh3.googleusercontent.com/a/ACg8ocJxrE5fsUm91lYLSZu1tCZ7gvsKVO4xZUVU49UJd-Oclk3RKhYd=s360-c-no');
+const userPhoto = ref(user.value?.photoURL || 'https://ionicframework.com/docs/img/demos/avatar.svg');
 
 function handleImageError() {
-    userPhoto.value = 'https://lh3.googleusercontent.com/a/ACg8ocJxrE5fsUm91lYLSZu1tCZ7gvsKVO4xZUVU49UJd-Oclk3RKhYd=s360-c-no';
+    userPhoto.value = 'https://ionicframework.com/docs/img/demos/avatar.svg';
 }
 </script>
 
