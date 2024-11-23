@@ -1,5 +1,5 @@
-## SCREENSHOT TAMPILAN SIGN IN WITH GOOGLE MENGGUNAKAN FIREBASE VUE
-
+## Praktikum Pemrograman Mobile Pertemuan 10
+## SCREENSHOT TAMPILAN SIGN IN WITH GOOGLE MENGGUNAKAN FIREBASE VUE 
 # Login Page
 <img src="https://github.com/user-attachments/assets/78904bea-452f-40ec-891c-7861d62a97dc" height="360"/>
 <img src="https://github.com/user-attachments/assets/e478d44c-3591-4cb4-be9e-57f6482d26ae" height="360"/><br>
@@ -28,3 +28,11 @@
 
 <h2> 5. Sinkronisasi di Aplikasi </h2>
 <p>Setelah login berhasil, informasi pengguna disimpan dalam state aplikasi untuk digunakan pada fitur yang memerlukan data pengguna.</p>
+
+## Praktikum Pemrograman Mobile Pertemuan 11
+## SCREENSHOT TAMPILAN CRUD APLIKASI TO-DO LIST WITH FIREBASE
+
+![image](https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb)
+![image](https://github.com/user-attachments/assets/21c7968f-6de5-47d6-8cbc-63680fac4d12)
+
+
