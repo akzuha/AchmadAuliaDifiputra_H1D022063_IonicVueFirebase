@@ -33,6 +33,8 @@
 ## SCREENSHOT TAMPILAN CRUD APLIKASI TO-DO LIST WITH FIREBASE
 
 ![image](https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb)
+![image](https://github.com/user-attachments/assets/adfc8d1e-8108-4725-8b2d-3ab23727f333)
+
 ![image](https://github.com/user-attachments/assets/21c7968f-6de5-47d6-8cbc-63680fac4d12)
 
 
