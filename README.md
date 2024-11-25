@@ -45,20 +45,20 @@
 <img src="https://github.com/user-attachments/assets/69f72839-cab0-418b-b359-86edd36ca15b" height="360"/><br>
 
 ### Build APK
-<b>1. Run Build Ionic<b/>
+**1. Run Build Ionic**<br>
 <img src="https://github.com/user-attachments/assets/c622742a-8adf-48fb-ba45-5ad7f7c12507"/><br>
 
-<b>2. Install Capacitor<b/>
+**2. Install Capacitor**<br>
 <img src="https://github.com/user-attachments/assets/61a99d4c-1b17-4150-b950-cb48be16b4ac"/><br>
 
-<b>3. Tambahkan Android dan Sinkronisasi<b/>
+**3. Tambahkan Android dan Sinkronisasi**<br>
 <img src="https://github.com/user-attachments/assets/063f9b91-9cc3-4867-836a-1e2da9fe9583"/><br>
 
-<b>4. Buka di android studio untuk membuild apk<b/>
-<img src="https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb" height="180"/>
-<img src="https://github.com/user-attachments/assets/adfc8d1e-8108-4725-8b2d-3ab23727f333" height="180"/><br>
+**4. Buka di android studio untuk membuild apk**<br>
+<img src="https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb"/>
+<img src="https://github.com/user-attachments/assets/adfc8d1e-8108-4725-8b2d-3ab23727f333"/><br>
 
-<b>5. Pindahkan file apk ke HP kemudian install<b/>
+**5. Pindahkan file apk ke HP kemudian install**<br>
 <img src="https://github.com/user-attachments/assets/363c45b2-1cb9-45e2-b51b-db1ffe6ca1c7" height="360"/>
 <img src="https://github.com/user-attachments/assets/0c7b7713-35ba-4079-9503-dd15c99b48d5" height="360"/>
 <img src="https://github.com/user-attachments/assets/88cdc438-d771-42ce-8f7a-7f5bb8e622bf" height="360"/><br>
