@@ -34,31 +34,39 @@
 ### Tambah Note
 <img src="https://github.com/user-attachments/assets/21c7968f-6de5-47d6-8cbc-63680fac4d12" height="360"/>
 <img src="https://github.com/user-attachments/assets/9ac358ad-23fd-46eb-bcc0-a9648631f22d" height="360"/><br>
+### Penjelasan:
+Notes ditambahkan dengan klik ikon tambah pada kanan bawah. Isi form dan notes akan masuk ketika di submit.
 
 ### Edit Note
 <img src="https://github.com/user-attachments/assets/ffd27d99-714a-4c25-b5d9-08310df9a8a6" height="360"/>
 <img src="https://github.com/user-attachments/assets/2e0a6835-2c71-445c-86fd-d8590d9e7c2f" height="360"/>
-<img src="https://github.com/user-attachments/assets/376838a1-60e0-49ae-935d-5721a2dff804"/>)<br>
+<img src="https://github.com/user-attachments/assets/376838a1-60e0-49ae-935d-5721a2dff804"/>
+<img src="https://github.com/user-attachments/assets/cd8bb16f-5193-4269-b5f3-7604eab6dfad" height="360"/>
+<img src="https://github.com/user-attachments/assets/465dd780-6767-4300-ad3b-205d698de378" height="360"/><br>
+### Penjelasan:
+Untuk edit notes, geser notes ke kiri kemudian pencet ikon edit. Ketika notes digeser ke kiri secara mentok maka akan menandai notes sebagai completed.
 
 ### Delete Note
 <img src="https://github.com/user-attachments/assets/9fcb069a-0b32-4377-bcec-5d6dbb576442" height="360"/>
 <img src="https://github.com/user-attachments/assets/69f72839-cab0-418b-b359-86edd36ca15b" height="360"/><br>
+### Penjelasan:
+Ketika pada notes dislide ke kanan, maka akan memunculkan opsi delete. Slide mentok ke kanan untuk langsung menghapus, atau slide sedikit ke kanan lalu pencet ikon hapus.
 
 ### Build APK
-**1. Run Build Ionic**<br>
+### 1. Run Build Ionic
 <img src="https://github.com/user-attachments/assets/c622742a-8adf-48fb-ba45-5ad7f7c12507"/><br>
 
-**2. Install Capacitor**<br>
+### 2. Install Capacitor
 <img src="https://github.com/user-attachments/assets/61a99d4c-1b17-4150-b950-cb48be16b4ac"/><br>
 
-**3. Tambahkan Android dan Sinkronisasi**<br>
+### 3. Tambahkan Android dan Sinkronisasi
 <img src="https://github.com/user-attachments/assets/063f9b91-9cc3-4867-836a-1e2da9fe9583"/><br>
 
-**4. Buka di android studio untuk membuild apk**<br>
+### 4. Buka di android studio untuk membuild apk
 <img src="https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb"/>
 <img src="https://github.com/user-attachments/assets/adfc8d1e-8108-4725-8b2d-3ab23727f333"/><br>
 
-**5. Pindahkan file apk ke HP kemudian install**<br>
+### 5. Pindahkan file apk ke HP kemudian install
 <img src="https://github.com/user-attachments/assets/363c45b2-1cb9-45e2-b51b-db1ffe6ca1c7" height="360"/>
 <img src="https://github.com/user-attachments/assets/0c7b7713-35ba-4079-9503-dd15c99b48d5" height="360"/>
 <img src="https://github.com/user-attachments/assets/88cdc438-d771-42ce-8f7a-7f5bb8e622bf" height="360"/><br>
