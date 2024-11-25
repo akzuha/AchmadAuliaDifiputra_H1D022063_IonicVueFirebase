@@ -41,7 +41,7 @@ Notes ditambahkan dengan klik ikon tambah pada kanan bawah. Isi form dan notes a
 <img src="https://github.com/user-attachments/assets/ffd27d99-714a-4c25-b5d9-08310df9a8a6" height="360"/>
 <img src="https://github.com/user-attachments/assets/2e0a6835-2c71-445c-86fd-d8590d9e7c2f" height="360"/>
 <img src="https://github.com/user-attachments/assets/376838a1-60e0-49ae-935d-5721a2dff804"/>
-<img src="https://github.com/user-attachments/assets/cd8bb16f-5193-4269-b5f3-7604eab6dfad" height="360"/>
+<img src="https://github.com/user-attachments/assets/cd8bb16f-5193-4269-b5f3-7604eab6dfad"/>
 <img src="https://github.com/user-attachments/assets/465dd780-6767-4300-ad3b-205d698de378" height="360"/><br>
 ### Penjelasan:
 Untuk edit notes, geser notes ke kiri kemudian pencet ikon edit. Ketika notes digeser ke kiri secara mentok maka akan menandai notes sebagai completed.
