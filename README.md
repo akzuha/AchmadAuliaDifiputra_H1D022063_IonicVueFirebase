@@ -1,4 +1,4 @@
-## Praktikum Pemrograman Mobile Pertemuan 10
+# Praktikum Pemrograman Mobile Pertemuan 10
 ## SCREENSHOT TAMPILAN SIGN IN WITH GOOGLE MENGGUNAKAN FIREBASE VUE 
 # Login Page
 <img src="https://github.com/user-attachments/assets/78904bea-452f-40ec-891c-7861d62a97dc" height="360"/>
@@ -29,12 +29,27 @@
 <h2> 5. Sinkronisasi di Aplikasi </h2>
 <p>Setelah login berhasil, informasi pengguna disimpan dalam state aplikasi untuk digunakan pada fitur yang memerlukan data pengguna.</p>
 
-## Praktikum Pemrograman Mobile Pertemuan 11
+# Praktikum Pemrograman Mobile Pertemuan 11
 ## SCREENSHOT TAMPILAN CRUD APLIKASI TO-DO LIST WITH FIREBASE
+### Tambah Note
+<img src="https://github.com/user-attachments/assets/9ac358ad-23fd-46eb-bcc0-a9648631f22d" height="360"/><br>
 
-![image](https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb)
-![image](https://github.com/user-attachments/assets/adfc8d1e-8108-4725-8b2d-3ab23727f333)
+### Read Note
+<img src="https://github.com/user-attachments/assets/21c7968f-6de5-47d6-8cbc-63680fac4d12" height="360"/><br>
 
-![image](https://github.com/user-attachments/assets/21c7968f-6de5-47d6-8cbc-63680fac4d12)
+### Edit Note
+<img src="https://github.com/user-attachments/assets/ffd27d99-714a-4c25-b5d9-08310df9a8a6" height="360"/>
+<img src="https://github.com/user-attachments/assets/2e0a6835-2c71-445c-86fd-d8590d9e7c2f" height="360"/>
+<img src="https://github.com/user-attachments/assets/376838a1-60e0-49ae-935d-5721a2dff804"/>)<br>
+
+### Delete Note
+<img src="https://github.com/user-attachments/assets/9fcb069a-0b32-4377-bcec-5d6dbb576442" height="360"/>
+<img src="https://github.com/user-attachments/assets/69f72839-cab0-418b-b359-86edd36ca15b" height="360"/>)<br>
+
+### Build APK
+<img src="https://github.com/user-attachments/assets/833eba63-e447-4d50-93fe-fd151ea0fdeb" height="180"/>
+<img src="https://github.com/user-attachments/assets/adfc8d1e-8108-4725-8b2d-3ab23727f333" height="180"/>)<br>
+
+
 
 
